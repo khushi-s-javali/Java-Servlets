@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2660035179.index
+\MavenDemo\src\main\resources
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3638060899.index
+\MavenDemo\src\main\resources
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2373278408.index
+\ShoppingList\src\main\java
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1137885269.index
+\FirstJSTL\src\main\java
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3216739921.index
+\LoginModule\src\main\java
+C:\Users\ksjav\OneDrive\Documents\KHUSHI\Java Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2839045119.index
+\FirstJSP\src\main\java
