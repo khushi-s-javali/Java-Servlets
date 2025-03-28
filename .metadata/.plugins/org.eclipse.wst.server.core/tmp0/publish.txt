@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Fri Feb 28 19:36:40 IST 2025
+org.eclipse.jst.jee.server\:ShoppingList=C\:\\Users\\ksjav\\Downloads\\apache-tomcat-10.0.23\\wtpwebapps\\ShoppingList
+org.eclipse.jst.jee.server\:FirstApp=C\:\\Users\\ksjav\\Downloads\\apache-tomcat-10.0.23\\wtpwebapps\\FirstApp
+org.eclipse.jst.jee.server\:LoginModule=C\:\\Users\\ksjav\\Downloads\\apache-tomcat-10.0.23\\wtpwebapps\\LoginModule
+org.eclipse.jst.jee.server\:FirstJSP=C\:\\Users\\ksjav\\Downloads\\apache-tomcat-10.0.23\\wtpwebapps\\FirstJSP
+org.eclipse.jst.jee.server\:FirstJSTL=C\:\\Users\\ksjav\\Downloads\\apache-tomcat-10.0.23\\wtpwebapps\\FirstJSTL
